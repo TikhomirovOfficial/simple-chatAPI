@@ -1,1 +1,1 @@
-web:node index.js $PORT
+web:npm run dev
